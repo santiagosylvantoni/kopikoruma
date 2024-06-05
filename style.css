@@ -51,9 +51,9 @@ section {
   transform: translateX(0);
 }
 .prod img {
-  height: 415px;
+  height: 500px;
   width: 400px;
-  border: 8px solid #fff;
+  border: 8px solid #1a1a1a;
 }
 .prod:nth-child(2) {
   transition-delay: 300ms;
