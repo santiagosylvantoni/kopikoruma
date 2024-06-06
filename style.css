@@ -3,11 +3,13 @@
 .jumbotron {
   padding-top: 10rem;
   padding-bottom: 3rem;
-  background-image: url(images/heroimage3.jpg);
+  background-image: url(images/JUMBOTRON.JPG);
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+.blur {
+  filter: blur(5px);
+}
 body {
   min-height: auto;
   background-color: antiquewhite;
