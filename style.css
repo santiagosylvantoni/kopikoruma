@@ -77,3 +77,8 @@ section {
   background: transparent;
   border: none;
 }
+
+h5 {
+  text-decoration: none;
+  color: white;
+}
